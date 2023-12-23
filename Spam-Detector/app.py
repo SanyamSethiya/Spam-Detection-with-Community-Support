@@ -23,13 +23,13 @@ st.markdown(hide_st_style, unsafe_allow_html=True)
 
 # Configuration Key
 firebaseConfig = {
-    'apiKey': "AIzaSyCU9dxe6OQb4Kz--zOgeS3w6MVku5W3w_g",
-    'authDomain': "spam-detector-245cf.firebaseapp.com",
-    'projectId': "spam-detector-245cf",
-    'databaseURL': "https://spam-detector-245cf-default-rtdb.europe-west1.firebasedatabase.app/",
-    'storageBucket': "spam-detector-245cf.appspot.com",
-    'messagingSenderId': "156051902612",
-    'appId': "1:156051902612:web:dbb234c087b95402eea481",
+    'apiKey': "",
+    'authDomain': "",
+    'projectId': "",
+    'databaseURL': "",
+    'storageBucket': "",
+    'messagingSenderId': "",
+    'appId': "",
 }
 
 # Firebase Authentication
